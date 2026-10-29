@@ -21,7 +21,7 @@ Aquest projecte utilitza la tècnica d'inclusió de fitxers mitjançant `include
 3. Accedir a:
  
 ```text
-http://localhost/solucion_2
+http://localhost/agencia-viajes
 ```
  
 ## Objectius didàctics
